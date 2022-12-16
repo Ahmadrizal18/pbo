@@ -11,6 +11,6 @@ package pbo;
  */
 public class mahasiswaaksi {
     public static void main(String[] args) {
-        
+        mahasiswa harry = new mahasiswa();
     }
 }

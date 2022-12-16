@@ -17,5 +17,7 @@ public class mahasiswaaksi {
         harry.NPM="19639999";
         harry.IPK="3.4";
         
+        harry.cetakInfo();
+        
     }
 }

@@ -12,5 +12,10 @@ package pbo;
 public class mahasiswaaksi {
     public static void main(String[] args) {
         mahasiswa harry = new mahasiswa();
+        
+        harry.nama="Harry Potter";
+        harry.NPM="19639999";
+        harry.IPK="3.4";
+        
     }
 }
